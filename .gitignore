@@ -35,7 +35,7 @@ wheels/
 *.pt
 
 # Data files (uncomment if you don't want to track data)
-# *.csv
+*.csv
 # *.pkl
 # *.h5
 # *.hdf5
